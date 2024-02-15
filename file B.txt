@@ -1,2 +1,3 @@
 this is file B
 Change in file B
+Feature A
