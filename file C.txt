@@ -1,2 +1,4 @@
 This is file C
-changing file C
+
+making a change in fileC
+>>>>>>> FeatureA
